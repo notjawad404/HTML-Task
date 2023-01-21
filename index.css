@@ -1,0 +1,57 @@
+a:hover{
+    text-decoration: none;
+}
+
+body{
+    background-color: beige;
+}
+
+.align-left{
+    text-align: left;
+}
+
+
+footer{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 225px;
+    float: left;
+    border-radius: 50%;
+    margin: 5px 5px 10px 10px;
+}
+
+.bg1{
+    background-color: rgb(0, 255, 242);
+}
+
+.text1{
+    color:rgb(252, 4, 4);
+}
+
+.margin1{
+    margin: 5px 5px 10px 10px;
+    
+}
+
+.underline-text{
+    text-decoration: underline;
+}
+
+.align-center{
+    text-align: center;
+}
+h1{
+    margin-top: 0.5rem;
+    margin-bottom: 3rem;
+}
+
+
+h3{
+    margin-top: 2rem;
+    margin-bottom: 0;
+}
